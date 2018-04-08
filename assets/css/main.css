@@ -54,6 +54,19 @@
 	border-radius: 50%;
 }
 
+.JMU_Logo {
+	border-radius: 50%;
+	float: left;
+	margin-right: 30px;
+}
+
+.UNC_Logo {
+	border-radius: 10%;
+	float: left;
+	margin-right: 50px;
+	margin-left: 20px;
+	height: 250px;
+}
 
 /* Box Model */
 
